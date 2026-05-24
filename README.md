@@ -1,5 +1,5 @@
 ## Amy Mayernik
-Founder & CEO @ Dott | 15+ years in event marketing, field marketing & experiential
+Founder @ Dott | 20+ years in field marketing, events & experiential
 
 Building Dott — one system to plan, forecast, prove, and score event investment. Private beta May 2026.
 
