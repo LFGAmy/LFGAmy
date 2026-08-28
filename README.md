@@ -1,6 +1,6 @@
-Amy Mayernik
+# Amy Mayernik
 
-Founder @ Dott | Field & Event Marketing Engineer | 20+ years building developer communities, events & experiential marketing
+**Founder @ Dott — Event Portfolio Intelligence | Developer marketer who builds | Ships AI agents & MCP servers**
 
 Building Dott, one system to plan, forecast, prove, and score event investment. Now live.
 
@@ -8,8 +8,8 @@ I've spent my career building for developers and technical audiences: hacker hou
 
 I also build the AI systems that run modern marketing: production agents, a live MCP server (mcp.lfgamy.com), and version-controlled skill libraries. Profound-certified in Agent Engineering and Marketing Engineering, with four Anthropic Academy certifications.
 
-Available for full-time and fractional roles: developer relations & community, field & event marketing leadership, marketing engineering, and marketing operations.
+**Open to developer marketing, developer relations, and technical product marketing roles.**
 
-Previously: Head of Field Marketing & Events @ Eigen Labs, Events Director @ Serotonin, Global Head of Field Marketing & GTM Programs @ zkSync, Field Marketing, Developer Ecosystem @ Coinbase
+Previously: Head of Field Marketing & Events @ Eigen Labs · Events Director @ Serotonin · Global Head of Field Marketing & GTM Programs @ zkSync · Field Marketing, Developer Ecosystem @ Coinbase
 
-🔗 usedott.com | lfgamy.com | linkedin.com/in/amymayernik
+🔗 usedott.com | lfgamy.com | linkedin.com/in/amymayernik | collab@lfgamy.com
