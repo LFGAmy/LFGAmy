@@ -1,15 +1,15 @@
 # Amy Mayernik
 
-**Founder @ Dott — Event Portfolio Intelligence | Developer marketer who builds | Ships AI agents & MCP servers**
+**Developer marketer who builds | Community, creator & events lead for AI and developer tools | Founder of Dott**
 
-Building Dott, one system to plan, forecast, prove, and score event investment. Now live.
+I build the communities, creator programs, and events that get AI and developer tools adopted, and the AI systems that run them.
 
-I've spent my career building for developers and technical audiences: hacker houses (The Vault), developer conferences, hackathons, demo days and community programs at Coinbase's Developer Ecosystem, zkSync, and Eigen Labs. Earlier, I led large-scale experiential campaigns for major consumer brands — Facebook's VR tours, Nintendo, and The North Face.
+**Community and events:** hacker houses, hackathons, developer conferences, builder meetups, and community programs for developer and AI audiences.
 
-I also build the AI systems that run modern marketing: production agents, a live MCP server (mcp.lfgamy.com), and version-controlled skill libraries. Profound-certified in Agent Engineering and Marketing Engineering, with four Anthropic Academy certifications.
+**Creator programs:** influencer and creator programs that turn a product into proof other people talk about.
 
-**Open to developer marketing, developer relations, and technical product marketing roles.**
+**What I build:** [Dott](https://usedott.com), an Event Portfolio Intelligence System to plan, forecast, prove, and score event investment. Plus a live MCP server ([mcp.lfgamy.com](https://mcp.lfgamy.com)), production agents, and version-controlled skill libraries.
 
-Previously: Head of Field Marketing & Events @ Eigen Labs · Events Director @ Serotonin · Global Head of Field Marketing & GTM Programs @ zkSync · Field Marketing, Developer Ecosystem @ Coinbase
+**Open to community, events, developer marketing, and creator program roles.**
 
-🔗 usedott.com | lfgamy.com | linkedin.com/in/amymayernik | collab@lfgamy.com
+🔗 [usedott.com](https://usedott.com) | [lfgamy.com](https://lfgamy.com) | [linkedin.com/in/amymayernik](https://www.linkedin.com/in/amymayernik) | [collab@lfgamy.com](mailto:collab@lfgamy.com)
